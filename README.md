@@ -4,13 +4,18 @@
 <a href="https://www.linkedin.com/in/ezzdeen-shamaly">
 <img src="https://readme-typing-svg.demolab.com/?lines=Flutter+Developer+%7C+Building+Wasiati;Clean+Architecture+%26+SOLID+Principles;Open+for+Freelance+%26+Junior+Roles;Based+in+Gaza%2C+Palestine+%F0%9F%87%B5%F0%9F%87%B8&font=Fira+Code&center=true&width=600&height=45&color=0175C2&vCenter=true&size=22"/>
 </a>
-</div>
 
 🚀 Co-built Wasiati, a digital Islamic will platform — Flutter frontend with Riverpod, go_router, Dio, Passkey/WebAuthn auth, and Stripe billing. Ranked top 50 of 500+ submissions at the Gaza Stars innovation competition.
 
 🧱 Comfortable applying Clean Architecture (data/domain/application/presentation layers) on real, multi-feature apps — not just tutorials.
 
 💬 Ask me about Flutter architecture, state management, or Firebase/Supabase integration.
+
+</div>
+
+
+
+
 
 ### So... what do I actually build?
 
@@ -24,7 +29,11 @@ My work usually involves:
 - Making bilingual apps (Arabic/English, RTL-aware) feel native in both directions
 - Reading someone else's architecture decisions and actually respecting them
 
-<div align="center">
+
+
+
+
+<div align="right">
 
 ### 🧰 The mobile toolbox
 
