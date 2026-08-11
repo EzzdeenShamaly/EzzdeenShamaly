@@ -37,7 +37,7 @@ My work usually involves:
 
 ### 🧰 The mobile toolbox
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio,apple,firebase,sqlite,git,github,githubactions,figma" />
+    <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio,apple,firebase,sqlite,git,github,githubactions,figma" />
 
 </div>
 
