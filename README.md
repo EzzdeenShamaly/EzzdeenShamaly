@@ -13,10 +13,6 @@
 
 </div>
 
-
-
-
-
 ### So... what do I actually build?
 
 Flutter apps with a real backbone — feature-based Clean Architecture (data / domain / application / presentation), Riverpod for state, and REST APIs wired through Dio.
@@ -29,15 +25,11 @@ My work usually involves:
 - Making bilingual apps (Arabic/English, RTL-aware) feel native in both directions
 - Reading someone else's architecture decisions and actually respecting them
 
-
-
-
-
 <div align="left">
 
 ### 🧰 The mobile toolbox
 
-    <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio,apple,firebase,sqlite,git,github,githubactions,figma" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio,apple,firebase,sqlite,git,github,githubactions,figma" />
 
 </div>
 
