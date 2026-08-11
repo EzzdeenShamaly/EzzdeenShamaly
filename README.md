@@ -12,20 +12,17 @@
 
 💬 Ask me about Flutter architecture, state management, or Firebase/Supabase integration.
 
-<div align="center">
+### So... what do I actually build?
 
-### 🛠️ Tech Stack
+Flutter apps with a real backbone — feature-based Clean Architecture (data / domain / application / presentation), Riverpod for state, and REST APIs wired through Dio.
 
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
+My work usually involves:
 
-Architecture: Clean Architecture · SOLID Principles &nbsp;|&nbsp; State Management: Riverpod · Provider
-
-</div>
+- Structuring features so they scale without turning into a folder maze
+- Wiring up authentication that goes beyond email/password — Passkey/WebAuthn, Google Sign-In
+- Talking to real backend APIs, not just Firebase shortcuts
+- Making bilingual apps (Arabic/English, RTL-aware) feel native in both directions
+- Reading someone else's architecture decisions and actually respecting them
 
 <div align="center">
 
@@ -54,18 +51,6 @@ Architecture: Clean Architecture · SOLID Principles &nbsp;|&nbsp; State Managem
 **Delivery & collaboration**
 
 `Git` · `GitHub Actions` · `Codemagic` · `JIRA` · `Postman` · `Figma`
-
-### So... what do I actually build?
-
-Flutter apps with a real backbone — feature-based Clean Architecture (data / domain / application / presentation), Riverpod for state, and REST APIs wired through Dio.
-
-My work usually involves:
-
-- Structuring features so they scale without turning into a folder maze
-- Wiring up authentication that goes beyond email/password — Passkey/WebAuthn, Google Sign-In
-- Talking to real backend APIs, not just Firebase shortcuts
-- Making bilingual apps (Arabic/English, RTL-aware) feel native in both directions
-- Reading someone else's architecture decisions and actually respecting them
 
 ### ⭐ Featured Project
 
