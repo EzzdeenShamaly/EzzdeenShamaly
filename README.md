@@ -57,7 +57,7 @@ My work usually involves:
 
 **[NovaModest](https://github.com/EzzdeenShamaly/nova_modest)** — an Arabic-first modest-fashion store, built end to end for a client in Saudi Arabia and **[live on Google Play](https://play.google.com/store/apps/details?id=com.novamodest.store)**. Flutter + Supabase, BLoC, go_router, Freezed, feature-first Clean Architecture — catalog, cart, checkout, addresses and orders, plus an admin dashboard for the shop owner. I handled the Play Console release end to end.
 
-**[Wasiati](https://github.com/EzzdeenShamaly/Wasiati)** — a digital Islamic will platform. My role: the Flutter frontend, in a full monorepo product (Flutter + NestJS + Terraform) built with a team. Passkey/WebAuthn auth, Riverpod, Stripe billing. Top 50 of 500+ at Gaza Stars.
+**Wasiati** — a digital Islamic will platform. My role: the Flutter frontend, in a full monorepo product (Flutter + NestJS + Terraform) built with a team. Passkey/WebAuthn auth, Riverpod, Stripe billing. Top 50 of 500+ at Gaza Stars.
 
 ### Currently
 
