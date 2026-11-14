@@ -2,8 +2,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,100:0175C2&height=200&section=header&text=Ezzdeen%20Shamaly&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Flutter%20Developer%20%7C%20Clean%20Architecture&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://www.linkedin.com/in/ezzdeen-shamaly">
-<img src="https://readme-typing-svg.demolab.com/?lines=Flutter+Developer+%7C+Building+Wasiati;Clean+Architecture+%26+SOLID+Principles;Open+for+Freelance+%26+Junior+Roles;Based+in+Gaza%2C+Palestine+%F0%9F%87%B5%F0%9F%87%B8&font=Fira+Code&center=true&width=600&height=45&color=0175C2&vCenter=true&size=22"/>
+<img src="https://readme-typing-svg.demolab.com/?lines=Flutter+Developer+%7C+Apps+Live+on+Google+Play;Clean+Architecture+%26+SOLID+Principles;Open+for+Freelance+%26+Junior+Roles;Based+in+Gaza%2C+Palestine+%F0%9F%87%B5%F0%9F%87%B8&font=Fira+Code&center=true&width=600&height=45&color=0175C2&vCenter=true&size=22"/>
 </a>
+
+📲 Shipped **Nazzel** — an Arabic-first Android video saver, [live on Google Play](https://play.google.com/store/apps/details?id=app.nazzel). Background downloads, automatic resume across network loss, and on-device merging of separate video/audio streams. Flutter · BLoC · sqflite · feature-first Clean Architecture.
+
+🛍️ Shipped **NovaModest** — an Arabic-first e-commerce app for a client in Saudi Arabia, [live on Google Play](https://play.google.com/store/apps/details?id=com.novamodest.store), with an admin dashboard for the shop owner.
 
 🚀 Co-built Wasiati, a digital Islamic will platform — Flutter frontend with Riverpod, go_router, Dio, Passkey/WebAuthn auth, and Stripe billing. Ranked top 50 of 500+ submissions at the Gaza Stars innovation competition.
 
